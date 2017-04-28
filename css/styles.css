@@ -1,6 +1,10 @@
 .jumbotron {
   text-align: center;
-  background: url("https://s-media-cache-ak0.pinimg.com/originals/78/0f/39/780f396f8a00b0d6bb88f6b6076ee90c.jpg");
+  background-color: #1e4c38;
+  border-style: solid;
+  border-width: medium;
+  border-radius: 50%;
+  border-color: gold;
 
 }
 
@@ -14,6 +18,11 @@ img {
   text-align: center;
   color: gold;
   font-family: 'Eagle Lake', cursive;
+  background-color: #1e4c38;
+  border-style: solid;
+  border-width: medium;
+  border-radius: 10%;
+  border-color: gold;
 }
 
 .columnImage {
@@ -24,6 +33,12 @@ h3 {
   margin-bottom: 5%;
   color: gold;
   font-family: 'Eagle Lake', cursive;
+  background-color: #1e4c38;
+  border-style: solid;
+  border-width: medium;
+  border-radius: 10%;
+  border-color: gold;
+
 
 }
 
@@ -33,6 +48,6 @@ h3 {
 }
 
 body {
-  background: url("http://i.imgur.com/KA92zQq.jpg") no-repeat fixed;
+  background: url("https://images6.alphacoders.com/805/thumb-1920-805656.jpg") no-repeat fixed;
   background-size: cover;
 }
